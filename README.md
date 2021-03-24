@@ -1,2 +1,2 @@
 # Chibuikem-Akpaka
-## Profile page containing relevant information about me and my contact information.
+## Profile containing relevant information about me and my contact information.
